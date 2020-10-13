@@ -3,3 +3,6 @@ This is sample file to be checked in, please check if this is susccessfully chec
 in
 
 Can I make some more changes to txt file, that also will be visible
+
+This changes are doen by some other user
+
